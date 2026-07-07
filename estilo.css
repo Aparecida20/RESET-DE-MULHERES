@@ -1,0 +1,40 @@
+
+body {
+  background-color: rgba(240, 34, 161, 0.877);
+}
+
+#profile {
+  height: 70px;
+  width: 70px;
+  border: solid 1px #fff;
+  border-radius: 50%;
+  background-image: url(reset.jpg);
+  background-size: cover;
+  margin: auto;
+}
+
+#username {
+  color: #f8fffd;
+  text-align: center;
+}
+
+.buttonlist {
+  background-color: white;
+  border-radius: 20px;
+  font-size: 13px;
+  text-align: center;
+  padding: 13px;
+  width: 50%;
+  margin: 20px auto;
+  display: block;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.redes img {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
